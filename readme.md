@@ -30,6 +30,7 @@ This guide will explain in detail how to extract models from Metroid Prime title
 3. Run hecl from the terminal and execute the following command: `hecl installaddon`.
 
 \*_(The hecl add-on only supports Blender up to [v2.83](https://www.blender.org/download/releases/2-83/).)_
+
 \*\*_(When adding the environment variable, click `OK` on both `System Properties` dialogs or changes will not be saved.)_
 
 ### Prime World Editor
@@ -78,6 +79,7 @@ _(\*Game mode disables GUI elements and renders a scene as it appears in-game.)_
 7. Search the Metaforce extraction directory for the associated `*.blend` file.
 
 \*_(Note that rooms prefixed with`!` are usually not used for locating models and are usually used for globally accessed resources.)_
+
 \*\*_(World geometry cannot be selected in PWE, some objects are part of world geometry..)_
 
 ## World Geometry
