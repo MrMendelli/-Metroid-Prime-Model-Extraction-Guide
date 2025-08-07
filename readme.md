@@ -24,7 +24,9 @@ This guide will explain in detail how to extract models from Metroid Prime title
 	1a. `Settings` > `System` > `About` > `Advanced system settings`.
 	1b. `System Properties` > `Advanced` > `Environment Variables.`
 2. Click `New...` under `System Variables` and add a system environment variable with the `Variable name:` `BLENDER_BIN` and a `Variable value:` of Blender's executable path.\* \*\*
+
 ![](images/SystemPropertiesAdvanced_vW9vNPrbLd.jpg)
+
 3. Run hecl from the terminal and execute the following command: `hecl installaddon`.
 
 \*_(The hecl add-on only supports Blender up to [v2.83](https://www.blender.org/download/releases/2-83/).)_
@@ -60,13 +62,19 @@ _(\*Game mode disables GUI elements and renders a scene as it appears in-game.)_
 ## Objects
 1. From an open project, navigate game worlds and scenes from the right-hand panel _(1.)_.\*
 2. From a world, open a room. _(2.)_.
+
 ![](images/PrimeWorldEditor_v8YuGwXMAi.jpg)
+
 3. Ensure that at least the `World` and `Object` layers are set to visible under `View`.
+
 ![](images/view.jpg)
+
 4. Select an object  with `LMB`, then click the `Edit Script` tab _(1.)_.\*\*
 5. From `Edit Script`, click the `Properties` tab _(2.)_.
 6. Copy the model name _(3.)_.
+
 ![](images/PrimeWorldEditor_eJ3LxTCHv3.jpg)
+
 7. Search the Metaforce extraction directory for the associated `*.blend` file.
 
 \*_(Note that rooms prefixed with`!` are usually not used for locating models and are usually used for globally accessed resources.)_
