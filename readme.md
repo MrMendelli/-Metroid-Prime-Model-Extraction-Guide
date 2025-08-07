@@ -52,7 +52,7 @@ This guide will explain in detail how to extract models from Metroid Prime title
 - `5` _(toggle lights visibility)_
 - `6` _(toggle skybox visibility)_
 
-_(\*Game mode disables GUI elements and renders a scene as it appears in-game.)_
+\*_(Game mode disables GUI elements and renders a scene as it appears in-game.)_
 
 ### Metaforce
 1. Set the `Extract Directory:` and `Blender Override Path:` values.\*
