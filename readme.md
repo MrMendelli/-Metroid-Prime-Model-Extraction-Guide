@@ -12,7 +12,7 @@ This guide will explain in detail how to extract models from Metroid Prime title
 
 ### Software
 - [Blender v2.83](https://www.blender.org/download/releases/2-83/)
-- [hecl](https://mega.nz/file/gl91nDBT#zPi8rX7jBgllvBrULBdVI2dF3O_3ri0a8Zx9tO4TGJ8).\*
+- [hecl](https://mega.nz/file/gl91nDBT#zPi8rX7jBgllvBrULBdVI2dF3O_3ri0a8Zx9tO4TGJ8)\*
 - [Prime World Editor](https://github.com/AxioDL/PrimeWorldEditor)
 - [Metaforce](https://mega.nz/file/ckMjRART#Sl-0xmP0PiOrZkYnlEjrMwz2gpCd2_fK4nDIVMPOkYg)\*
 
