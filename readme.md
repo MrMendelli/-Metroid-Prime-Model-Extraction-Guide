@@ -89,7 +89,7 @@ This guide will explain in detail how to extract models from Metroid Prime title
 1. For objects that are part of world geometry, navigate to the room sub-directory of a world directory in the Metaforce extraction directory.
 2. Some `*.blend` file names do not contain obvious indicators of which world chunk they are for, the best I can advise is opening them until you find the right one.\*
 
-\*_(Some rooms will contain either multiple `*.blend` files or even multiple sub-directories containing world geometry.)
+\*_(Some rooms will contain either multiple `*.blend` files or even multiple sub-directories containing world geometry.)_
 
 ## Extra
 - Both PWE and Metaforce extraction steps are both CPU intensive and will take some time to process. Some games may throw errors due to limited support.
