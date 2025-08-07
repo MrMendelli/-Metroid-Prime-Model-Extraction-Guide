@@ -24,7 +24,7 @@ This guide will explain in detail how to extract models from Metroid Prime title
 
 	1a. `Settings` > `System` > `About` > `Advanced system settings`.
 
-	1b. `System Properties` > `Advanced` > `Environment Variables.`
+	1b. `System Properties` > `Advanced` > `Environment Variables`.
 
 2. Click `New...` under `System Variables` and add a system environment variable with the `Variable name:` `BLENDER_BIN` and a `Variable value:` of Blender's executable path.\* \*\*
 
