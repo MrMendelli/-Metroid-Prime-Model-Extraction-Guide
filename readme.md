@@ -75,7 +75,7 @@ This guide will explain in detail how to extract models from Metroid Prime title
 
 4. Select an object  with `LMB`, then click the `Edit Script` tab _(1.)_.\*\*
 5. From `Edit Script`, click the `Properties` tab _(2.)_.
-6. Copy the model name _(3.)_.
+6. Copy the model name excluding it's extension _(3.)_.
 
 ![](images/PrimeWorldEditor_eJ3LxTCHv3.jpg)
 
