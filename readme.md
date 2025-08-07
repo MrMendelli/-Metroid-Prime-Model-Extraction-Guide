@@ -55,7 +55,7 @@ _(\*Game mode disables GUI elements and renders a scene as it appears in-game.)_
 1. Set the `Extract Directory:` and `Blender Override Path:` values.\*
 2. Click `Extract` and choose a path for the extracted contents.
 
-\*_(`Blender Override Path:` is optional if Blender is properly installed and only for using specific versions.)
+\*_(`Blender Override Path:` is optional if Blender is properly installed and only for using specific versions.)_
 
 ## Objects
 1. From an open project, navigate game worlds and scenes from the right-hand panel _(1.)_.\*
