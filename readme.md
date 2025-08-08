@@ -1,10 +1,8 @@
-# Metroid Prime Model Extraction
-
-## Preamble
+# Preamble
 This guide will explain in detail how to extract models from Metroid Prime titles for use in Blender. Be advised that some software cited is either work-in-progress or discontinued, some features are incomplete or have known issues.
 
-## Getting Started
-### Basics
+# Getting Started
+## Basics
 - Ample available storage
 - A copy of _Metroid Prime_, _Metroid Prime 2: Echoes_, _Metroid Prime 3: Corruption_, or _Metroid Prime: Trilogy_\*
 
@@ -18,8 +16,8 @@ This guide will explain in detail how to extract models from Metroid Prime title
 
 \*_(hecl and Metaforce are no longer maintained, the marked links are unaffiliated with AxioDL.)_
 
-## Setup
-### HECL Blender Add-On
+# Setup
+## HECL Blender Add-On
 1. Add the Blender system environment variable:
 
 	1a. `Settings` > `System` > `About` > `Advanced system settings`.
@@ -36,12 +34,12 @@ This guide will explain in detail how to extract models from Metroid Prime title
 
 \*\*_(When adding the environment variable, click `OK` on both `System Properties` dialogs or changes will not be saved.)_
 
-### Prime World Editor
-### Extraction
+## Prime World Editor
+## Extraction
 - Run PWE and select `File` > `Create Project`, then choose a location for the extracted contents.\*
 
 \*_(Note that the `*.prj` file is what PWE uses to load a project and is required.)_
-### Controls
+## Controls
 - `WASD` _(move)_
 - `MWheel Click` _(pan)_
 - `RMB` _(rotate camera)_
@@ -57,13 +55,13 @@ This guide will explain in detail how to extract models from Metroid Prime title
 
 \*_(Game mode disables GUI elements and renders a scene as it appears in-game.)_
 
-### Metaforce
+## Metaforce
 1. Set the `Extract Directory:` and `Blender Override Path:` values.\*
 2. Click `Extract` and choose a path for the extracted contents.
 
 \*_(`Blender Override Path:` is optional if Blender is properly installed and only for using specific versions.)_
 
-## Objects
+# Objects
 1. From an open project, navigate game worlds and scenes from the right-hand panel _(1.)_.\*
 2. From a world, open a room. _(2.)_.
 
@@ -85,12 +83,12 @@ This guide will explain in detail how to extract models from Metroid Prime title
 
 \*\*_(World geometry cannot be selected in PWE, some objects are part of world geometry..)_
 
-## World Geometry
+# World Geometry
 1. For objects that are part of world geometry, navigate to the room sub-directory of a world directory in the Metaforce extraction directory.
 2. Some `*.blend` file names do not contain obvious indicators of which world chunk they are for, the best I can advise is opening them until you find the right one.\*
 
 \*_(Some rooms will contain either multiple `*.blend` files or even multiple sub-directories containing world geometry.)_
 
-## Extra
+# Extra
 - Both PWE and Metaforce extraction steps are both CPU intensive and will take some time to process. Some games may throw errors due to limited support.
 - To easier manage or share models, open a `*.bleend` file, then select `File` > `External Data` > `Pack Resources` to bundle textures and materials within the `*.blend` file.
