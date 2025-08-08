@@ -8,7 +8,7 @@ This guide will explain in detail how to extract models from Metroid Prime title
 
 \*_(Not all compressed dump formats are supported.)_
 
-### Software
+## Software
 - [Blender v2.83](https://www.blender.org/download/releases/2-83/)
 - [hecl](https://mega.nz/file/gl91nDBT#zPi8rX7jBgllvBrULBdVI2dF3O_3ri0a8Zx9tO4TGJ8)\*
 - [Prime World Editor](https://github.com/AxioDL/PrimeWorldEditor)
@@ -35,11 +35,11 @@ This guide will explain in detail how to extract models from Metroid Prime title
 \*\*_(When adding the environment variable, click `OK` on both `System Properties` dialogs or changes will not be saved.)_
 
 ## Prime World Editor
-## Extraction
+### Extraction
 - Run PWE and select `File` > `Create Project`, then choose a location for the extracted contents.\*
 
 \*_(Note that the `*.prj` file is what PWE uses to load a project and is required.)_
-## Controls
+### Controls
 - `WASD` _(move)_
 - `MWheel Click` _(pan)_
 - `RMB` _(rotate camera)_
